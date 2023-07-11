@@ -1,4 +1,4 @@
-!/usr/bin/python3
+#!/usr/bin/python3
 # 6-print_comb3.py
 
 for digit1 in range(0, 10):
